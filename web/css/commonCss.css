@@ -1,0 +1,19 @@
+/* 
+    Document   : commonCss
+    Created on : Apr 27, 2013, 3:50:19 PM
+    Author     : 52165627
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#disqus_thread{
+    clear:both;
+}
+footer{
+    clear:both;
+    margin-top:40px;
+}

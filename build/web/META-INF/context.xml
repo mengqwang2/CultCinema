@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/CultCinema">
+  <Resource name="jdbc/CultCinema" auth="Container" type="javax.sql.DataSource"
+    maxActive="3000" maxIdle="3000" maxWait="3000" removeAbandoned="true"
+    username="aiad017" password="aiad017"
+    driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+    url="jdbc:sqlserver://w2ksa.cs.cityu.edu.hk:1433;databaseName=aiad017_db;" />
+</Context>
